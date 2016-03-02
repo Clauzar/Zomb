@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="17" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="hX4zB" tilewidth="32" tileheight="32" tilecount="128">
+  <image source="hX4zB.png" trans="ffffff" width="512" height="256"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+   <animation>
+    <frame tileid="82" duration="100"/>
+    <frame tileid="84" duration="100"/>
+    <frame tileid="84" duration="100"/>
+    <frame tileid="85" duration="100"/>
+    <frame tileid="71" duration="100"/>
+    <frame tileid="94" duration="100"/>
+    <frame tileid="78" duration="100"/>
+    <frame tileid="93" duration="100"/>
+    <frame tileid="68" duration="100"/>
+   </animation>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzFlTEOgzAMRX0T1LmnCDShK4pCmDtwgN5/KEj/K18RVRsWBstVmvwXO7ZZzWy92N4XmfL9ZsNmC/wM77HWNdoDGruPsF0rY63mJ/CcsGfYBM37n9bhXJTzI7zDes3nXQPYA/bz9655+9M6xOqg4aE9Cqfm95KDBfueokH+64eRH6DnoBeRew/tmk/uU+6RxbfyGXdC3AvuNONONX/C/z18xtlgpf5a+BHnI8475D1Ds+ZzzyCetXAmfuY8IWa+fUBejuLPVvqDe5mHM/Evwg6Sg+mAP1vpfcbNGu5P8JXJHmTuj/hJ9rBmdRadyf+IGKKwkx33Xz37WIecA639P8rb8S4PKz3xbf5xDmfJB+dPy/wLiJs1xNkbv/AneQPmiTPJW/v8d1Z638k7sCdr/pXfvyvtA6hVrOE=
+  </data>
+ </layer>
+</map>

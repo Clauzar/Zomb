@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="34" height="18" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="a" tilewidth="32" tileheight="32" tilecount="264">
+  <image source="tiles.png" width="378" height="798"/>
+ </tileset>
+ <tileset firstgid="265" name="b" tilewidth="32" tileheight="32" tilecount="231">
+  <image source="spritesheet_2.png" width="694" height="372"/>
+ </tileset>
+ <tileset firstgid="496" name="c" tilewidth="32" tileheight="32" tilecount="171">
+  <image source="Mario_Tiles.png" width="630" height="302"/>
+ </tileset>
+ <tileset firstgid="667" name="d" tilewidth="32" tileheight="32" tilecount="35">
+  <image source="backgrounds.png" width="231" height="189"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="34" height="18">
+  <data encoding="base64" compression="zlib">
+   eJztybcRACAQxECG/hvBe+pDATV8dMEmUvHOFRERERFDAREJ+beKZvw6BiYWNg6u8XsdQKMQ
+  </data>
+ </layer>
+</map>

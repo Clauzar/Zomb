@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="33" height="17" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="mack__s_tile_set__b_by_draymondc-d2z3zbl" tilewidth="32" tileheight="32" tilecount="256">
+  <image source="mack__s_tile_set__b_by_draymondc-d2z3zbl.png" trans="ffffff" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="33" height="17">
+  <data encoding="base64" compression="zlib">
+   eJyrZWBg0ARidiBWRcIgvgqUrUYjeQ4gbgDiXiCWAGJxND3iaHpoIW8NxBOgbrCgk53o8ppIbhiocLBCcoPVAIWDBJIbNAcoHCyQ3GA5QOGgzTDw6QHZDQOVLywHQTggp0kJOtmJL1+MhsPAhgNy+QAqo9TR9Kij6aGFPHKdpQXlg8psUyzYHEprEZCHYWssapHVaEKxBtQNc4F43gDiBUAMABABaRE=
+  </data>
+ </layer>
+</map>

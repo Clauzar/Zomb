@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="32" tileheight="32" backgroundcolor="#ff0000" nextobjectid="1">
+ <tileset firstgid="1" name="hX4zB" tilewidth="32" tileheight="32" tilecount="128">
+  <image source="hX4zB.png" trans="ffffff" width="512" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9ls0KgzAQhPNq1mh6rH9tQbBQSs89+fx1YRaWkNhkrR6GaEzy7e6ExMkYMx2gy46SjDmgV4ZC80OMjxC93xadF9WLSjyTrosKPJcYN3u1SWXUgtOhLdBXgsUxaBkcO3Os6OuwNueTyvA1ZijFjyfiuaOlee8MjcKvHuuFGCXqYZWMCgy3wnCofa9kyL0XY7QYp2U4wYkxOIZ6gx8cY4zRY8wWBnuylocz2/dV9SOPFtJ6zjGu5cFnhjYPrneMYcUYDaNP8KMWnmj37pofR5xX1PcQkvcHe+S8d6ppY/LOXZ9Ba9AeG7AOtSf0MZ/Pfi1j8HKxHqsR37T3x7/v873/S/bWF4894Ws=
+  </data>
+ </layer>
+</map>
